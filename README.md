@@ -1,2 +1,2 @@
 # hello-world
-hello world in c programming language
+hello world in c++ programming language
